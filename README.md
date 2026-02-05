@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h1 align="center">Hi 👋, I'm Y Sai Nikhil</h1>
 <h3 align="center">AI • Full-Stack • DevOps • Problem Solver</h3>
 
 <p align="center">
@@ -18,7 +18,7 @@
 * 🏆 Hackathon builder (Disaster Relief • Parking Detection • Chat Apps)
 * 🔬 Working on **Research + NER Model Fine-Tuning**
 * ☁️ Building Cloud & Distributed Systems projects
-* 📈 Preparing for **CAT 2026**
+* 📈 Preparing for **CAT 2027**
 * ⚡ Fun fact: I debug faster at night 🌙
 
 ---
@@ -26,8 +26,7 @@
 ### 🌐 Connect With Me
 
 <p>
-<a href="YOUR_LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="YOUR_TWITTER"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+<a href="https://www.linkedin.com/in/y-sai-nikhil/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
 </p>
 
 ---
